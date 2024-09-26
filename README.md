@@ -1,3 +1,4 @@
+<img src="imgs/banner.png" alt="Banner Image" style="width: 100%; height: auto;" />
 # Geospatial data analysis
 ## choropleth and interactive mapping
 Sep 26 and October 10
