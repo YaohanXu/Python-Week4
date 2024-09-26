@@ -1,2 +1,2 @@
-# week4
-choropleth and interactive mapping
+# choropleth and interactive mapping
+Sep 26 and October 10
